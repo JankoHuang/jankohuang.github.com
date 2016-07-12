@@ -15,7 +15,7 @@ body{
     z-index: 20;
 }
 .img-thumbnail .img{
-    background: url("https://raw.githubusercontent.com/JankoHuang/jankohuang.github.com/master/头像.jpg") no-repeat  center;
+    background: url("https://raw.githubusercontent.com/JankoHuang/jankohuang.github.com/master/img/picture.jpg") no-repeat  center;
     background-size:125px;
     width: 125px;
     height: 164px;
