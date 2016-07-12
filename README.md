@@ -1,2 +1,0 @@
-# jankohuang.github.com
-Resume
