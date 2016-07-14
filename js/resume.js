@@ -5,14 +5,14 @@ $(document).ready(function(){
 });
 $(function () {
     $(window).scroll(function(){
-        if ($(window).scrollTop()>100){
-            $("#returnTop").fadeIn(1000);
+        if ($(window).scrollTop()>0){
+            $(".aside-bottom").fadeIn(400);
         } else {
-            $("#returnTop").fadeOut(1000);
+            $(".aside-bottom").fadeOut(400);
         }
     });
-    $("#returnTop").click(function(){
-        $('body,html').animate({scrollTop:0},1000);
+    $(".aside-bottom").click(function(){
+        $('body,html').animate({scrollTop:0},400);
         return false;
     });
 });
