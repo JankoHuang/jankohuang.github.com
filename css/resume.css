@@ -96,7 +96,7 @@ body{
 }
 .demo-link{
     position: relative;
-    left: 100px;
+    left: 10%;
     bottom: 8px;
 }
 .container a,.panel-footer a,aside li a{
